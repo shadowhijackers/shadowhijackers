@@ -15,9 +15,9 @@
    thats enough to join with us. You can reach by [Facebook](https://www.facebook.com/shadowhijackers).
  
 ### Support :heartbeat:
-   give the :star2:	to our project if you like it.
+   Give the :star2:	& fork our project if you like 👍 it.
    
-### Reach us by
+### Reach us
    [Facebook](https://www.facebook.com/shadowhijackers)  
    
  
