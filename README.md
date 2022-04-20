@@ -10,7 +10,7 @@
 ### Need Help  🙋 
   Contact us :sparkling_heart:	 reach by  [Facebook](https://www.facebook.com/shadowhijackers).
   
-### Want to join with us :fire:
+### Join with us :fire:
    Only one qualification you required that is you should love :two_hearts: the programming :computer: . 
    thats enough to join with us. You can reach by [Facebook](https://www.facebook.com/shadowhijackers).
  
