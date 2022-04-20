@@ -5,8 +5,8 @@
  We can able to develop ___mobile__, __web__, __desktop__, __IoT__, __ML__ application in various programming languages
  and we can learning new things and will start to do.
 
-### Donation 
-   If you would like donate us :sparkling_heart:	 reach by  [Facebook](https://www.facebook.com/shadowhijackers).
+### Need Help 🙋 
+  Contact us :sparkling_heart:	 reach by  [Facebook](https://www.facebook.com/shadowhijackers).
    
 ### Support
    give the :star2:	to our project if you like it.
