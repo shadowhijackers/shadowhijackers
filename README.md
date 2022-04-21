@@ -5,7 +5,7 @@
  
   ShadowHijackers is the team but currently i am only one member :anchor: i would like to work with some people :two_men_holding_hands: to develope    opensource project :rainbow:. we are working on **developing open source projects, demos, libraries**.  We can able to develop ___mobile__, __web__, __desktop__, __IoT__, __ML__ application in various programming languages and we can learning new things and will start to do.
   
-  Now I am started to explore Blockchain and soon will develop project based on blackchain.
+  Now I am started to explore Blockchain and soon will develop project based on Blockchain.
 
 ### Need Help  🙋 
   Contact us :sparkling_heart:	 reach by  [Facebook](https://www.facebook.com/shadowhijackers).
